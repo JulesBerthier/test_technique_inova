@@ -1,18 +1,20 @@
 {
-  "name": "vanilla",
+  "name": "test-technique-inova",
   "version": "1.0.0",
-  "description": "Test technique Inova Jules Berthier",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
   },
-  "dependencies": { "parcel-bundler": "^1.6.1" },
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
   "devDependencies": {
     "@babel/core": "7.2.0"
   },
   "resolutions": {
     "@babel/preset-env": "7.13.8"
   },
-  "keywords": ["javascript", "starter"]
+  "keywords": []
 }
